@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "cuan-bgd.apps.cluster-e003.e003.sandbox526.opentlc.com"
+  host: "bla-bgd.apps.prod.bla.co.th"
   port:
     targetPort: 8080
   to:
