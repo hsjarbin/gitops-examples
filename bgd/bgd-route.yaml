@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: bgd
+    type: internal
   name: bgd
   namespace: bgd
 spec:
